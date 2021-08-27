@@ -45,3 +45,24 @@ line(230,110,220,130);
 line(235,110,225,130);
 line(240,110,230,130);
 }
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title>Title</title>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="styles.css">
+		<script src="processing.js"></script>
+	</head>
+	<body>
+		<header>
+			<h1>Headline</h1>
+		</header>
+			<section id="content">
+				<canvas id="VirtualPet" data-processing-sources="VirtualPet.pde">
+				</canvas>
+		    </section>
+	    <footer>
+		    Footer
+	    </footer>
+	</body>
+</html>
