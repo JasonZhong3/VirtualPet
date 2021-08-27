@@ -62,7 +62,8 @@ line(240,110,230,130);
 				</canvas>
 		    </section>
 	    <footer>
-		    Footer
+		    Zebra created by Jason Zhong
+		    Block 3
 	    </footer>
 	</body>
 </html>
